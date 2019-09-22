@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Shayan Shams
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor of Biomedical Informatics
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Texas Health at Houston
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Big Data
+- High-Performance Computing
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Computer Science
+    institution: Louisiana State University at Baton Rouge
+    year: 2019
+  - course: MEng in Robotic and Mechatronics
+    institution: University of Malaya
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: BEng in Electrical Engineering
+    institution: Sadjad University of Technology
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,16 +44,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: "mailto: shayan.shams@uth.tmc.edu"  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=KPB33b8AAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/shayanshams66
+- icon: linkedin
+  icon_pack: fab
+  link: 'https://www.linkedin.com/in/shayan-shams-789832116/'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -61,15 +61,15 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "shayan.shams@uth.tmc.edu"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an assistant professor in the Centro for Health Security and Phenotyping at the University of Texas Health at Houston. My primary research interests are 1) Artificial Intelligence (AI), and unsupervised and semi-supervised deep learning and machine learning in computer vision with applications in health-care and bioinformatics, 2) statistical analysis of complex data especially within the area of healthcare, and 3) big data, High-Performance Computing (HPC), distributed computing and hardware accelerator devices (GPU, FPGA) programming.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+As an expert in big data and data science, I am interested in the integration of AI, HPC and big data techniques to develop actionable health care models, bringing AI models to edge devices for personalized medicine and Knowledge transfer from one domain to another. My extensive experience and in-depth background in deep learning and machine learning with expertise in unsupervised, semi-supervised and transfer learning has led to the development of AI models in various domains from radiology, pathology, biology, and social sciences. I am currently working on multidisciplinary projects as collaborating with various domain experts from radiology, pathology, dentistry, and neurology.
